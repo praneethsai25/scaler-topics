@@ -7,7 +7,7 @@
 // let b = 50 
 // b = 60   //solution of the redeclaration problem
  
-// // console.log(a) // 20
+
 
 // console.log(b) // 30
 
